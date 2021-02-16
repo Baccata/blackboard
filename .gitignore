@@ -60,3 +60,5 @@ project/metals.sbt
 # File dumps
 version
 intellijPlugin
+
+.theia
